@@ -9,7 +9,7 @@ You can configure script.
 
 Configuration file syntax:
 
-###### formats.json 
+###### .formats.json 
 ```
 {"<Cathalog name 1>": ["<Cathalog name 1>", "<Extention 1>, "<Extention 2>", "<Extention 3>"], "<Cathalog name 2>": ["<Cathalog name 2>", "<Extention 1>", "<Extention 2>", "<Extention 3>"] ...}
 ```
